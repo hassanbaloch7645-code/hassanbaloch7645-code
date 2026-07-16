@@ -17,13 +17,12 @@
 ### 👋 About Me
 
 ```yaml
-name: Muhammad Ahsan
+name: Muhammad Hassan
 degree: BS Computer Science
 focus:
   - Agentic AI
   - AI Agent Development
   - AI Automation
-  - Frontend Engineering
 mindset: "Learning in public, one repo at a time 🚀"
 based_in: Lahore, Pakistan
 ```
