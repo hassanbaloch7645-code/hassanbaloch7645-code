@@ -17,19 +17,19 @@
 ### 👋 About Me
 
 ```yaml
-name: Muhammad Hassan
-degree: BS Computer Science
-focus:
+Name: Muhammad Hassan
+Degree: BS Computer Science
+Focus:
   - Agentic AI
   - AI Agent Development
   - AI Automation
-mindset: "Learning in public, one repo at a time 🚀"
+mindset: "Learning in public, Building Real-World AI Projects"
 based_in: Lahore, Pakistan
 ```
 
-I'm a **Computer Science student** currently building my skills in **Agentic AI, AI Agent development, and AI-driven automation**, alongside **frontend engineering** fundamentals. This profile documents my journey — from first commits to (eventually) full AI agent products.
+I am a **Computer Science student** currently building my skills in **Agentic AI, AI Agent development, and AI-driven automation**, alongside **frontend engineering** fundamentals. This profile documents my journey — from first commits to (eventually) full AI agent products.
 
-- 🔭 Currently learning: **Agentic AI systems & AI Agent frameworks**
+- 🔭 Currently learning: **Agentic AI systems & AI Agent frameworks(LangGraph & CrewAI)**
 - 🌱 Also sharpening: **Frontend Engineering & core programming fundamentals**
 - ⚙️ Interested in: **AI Automation workflows & tool-using agents**
 - 📫 Open to: **collaborations, internships, and learning opportunities**
