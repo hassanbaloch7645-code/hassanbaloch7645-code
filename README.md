@@ -27,13 +27,13 @@ mindset: "Learning in public, Building Real-World AI Projects"
 based_in: Lahore, Pakistan
 ```
 
-I am a **Computer Science student** currently building my skills in **Agentic AI, AI Agent development, and AI-driven automation**, alongside **frontend engineering** fundamentals. This profile documents my journey — from first commits to (eventually) full AI agent products.
+I am a **Computer Science student** currently building my skills in **Agentic AI, AI Agent development, and AI-driven automation**, alongside **frontend engineering** fundamentals. This profile documents my journey from first commits to (eventually) full AI agent products.
 
 - 🔭 Currently learning: **Agentic AI systems & AI Agent frameworks(LangGraph & CrewAI)**
 - 🌱 Also sharpening: **Frontend Engineering & core programming fundamentals**
 - ⚙️ Interested in: **AI Automation workflows & tool-using agents**
 - 📫 Open to: **collaborations, internships, and learning opportunities**
-- ⚡ Fun fact: This portfolio grows every week — check back often!
+- ⚡ Fun fact: This portfolio grows every week check back often!
 
 ---
 
