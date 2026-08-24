@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7CA18,50:6E56CF,100:1a1a2e&height=220&section=header&text=Muhammad%20Hassan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20Agentic%20AI%20Explorer&descAlignY=58&descSize=18&descColor=ffffff" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7CA18&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Hassan;BS+Computer+Science+Student;Learning+Django+(Backend)+%26+React+(Frontend);Diving+Into+AI+%26+Agentic+AI+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7CA18&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I am+Hassan;Back-end+Developer+%7C+Django+%26+DRF;Building+Scalable+REST+APIs+with+FastAPI;PostgreSQL+%7C+Clean+Architecture+%7C+Automation;Exploring+AI+%26+Agentic+AI+Systems" alt="Typing SVG" />
 
 <br/>
 
@@ -15,8 +15,8 @@
 
 ### 🚀 About Me
 
-- 🎓 **BS Computer Science Student**
-- 💻 Aspiring **Aspiring Back-end Developer** — Learning **Django REST Framework (DRF)**
+- 🎓 **BS Computer Science**
+- 💻 Aspiring **Aspiring Back-end Developer** — Learning **Django REST Framework (DRF), REST APIs, PostgreSQL**
 - 🤖 Exploring **AI, Agentic AI & AI Automation**
 - 🐍 Comfortable with **Python** for backend logic and automation
 - 📌 All of my projects are pinned below 👇
@@ -55,6 +55,7 @@
 ---
 ---
 
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -70,11 +71,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=hassanbaloch7645-code&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassanbaloch7645-code&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=f7ca18&line=f7ca18&point=ffffff" />
-</p>
-
 ---
+
 
 ### 🔥 Contribution Graph
 
