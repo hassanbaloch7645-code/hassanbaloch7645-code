@@ -16,7 +16,7 @@
 ### 🚀 About Me
 
 - 🎓 **BS Computer Science Student**
-- 💻 Aspiring **Full Stack Developer** — Learning **Django (Backend)** & **React (Frontend)**
+- 💻 Aspiring **Aspiring Back-end Developer** — Learning **Django REST Framework (DRF)**
 - 🤖 Exploring **AI, Agentic AI & AI Automation**
 - 🐍 Comfortable with **Python** for backend logic and automation
 - 📌 All of my projects are pinned below 👇
@@ -40,24 +40,19 @@
 
 ---
 
+
 ### 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/hassanbaloch7645-code/First-Program-demo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hassanbaloch7645-code&repo=First-Program-demo&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=f7ca18&text_color=ffffff&icon_color=f7ca18" />
-  </a>
-  <a href="https://github.com/hassanbaloch7645-code/Ai-Agents-Collection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hassanbaloch7645-code&repo=Ai-Agents-Collection&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=f7ca18&text_color=ffffff&icon_color=f7ca18" />
-  </a>
-  <br/>
-  <a href="https://github.com/hassanbaloch7645-code/DJango-Basic-Projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hassanbaloch7645-code&repo=DJango-Basic-Projects&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=f7ca18&text_color=ffffff&icon_color=f7ca18" />
-  </a>
-  <a href="https://github.com/hassanbaloch7645-code/hassanbaloch7645-code">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hassanbaloch7645-code&repo=hassanbaloch7645-code&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=f7ca18&text_color=ffffff&icon_color=f7ca18" />
-  </a>
+  <img src="https://raw.githubusercontent.com/hassanbaloch7645-code/hassanbaloch7645-code/main/assets/projects-banner.gif" width="80%"/>
 </p>
 
+<p align="center">
+  <b>🔗 Check out my pinned repositories directly on my profile above ⬆️</b><br/>
+  <sub>Curated projects are pinned via GitHub's native Pin feature — always up to date.</sub>
+</p>
+
+---
 ---
 
 ### 📊 GitHub Stats
@@ -69,6 +64,14 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=hassanbaloch7645-code&theme=tokyonight&hide_border=true&background=1a1b27&ring=f7ca18&fire=f7ca18&currStreakLabel=f7ca18" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hassanbaloch7645-code&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassanbaloch7645-code&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=f7ca18&line=f7ca18&point=ffffff" />
 </p>
 
 ---
