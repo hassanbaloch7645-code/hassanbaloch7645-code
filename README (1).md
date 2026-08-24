@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00B4D8&height=220&section=header&text=Muhammad+Hassan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-end+Developer+%7C+Django+%26+FastAPI+%7C+Agentic+AI+Engineer&descAlignY=58&descSize=18&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00B4D8&height=220&section=header&text=Muhammad%20Hassan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-end%20Developer%20%7C%20Agentic%20AI%20Engineer&descAlignY=58&descSize=18&descColor=ffffff" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I+am+Hassan;Back-end+Developer+%7C+Django+%26+DRF;Building+Scalable+REST+APIs+with+FastAPI;PostgreSQL+%7C+Clean+Architecture+%7C+Automation;Exploring+AI+%26+Agentic+AI+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I+am+Hassan;Back-end+Developer+%7C+Django+%26+DRF;Building+Scalable+REST+APIs+with+FastAPI;PostgreSQL+%7C+Clean+Architecture+%7C+Automation;Exploring+AI+%26+Agentic+AI+Systems" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=hassanbaloch7645-code&label=Profile+Views&color=00B4D8&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=hassanbaloch7645-code&label=Profile%20Views&color=00B4D8&style=flat" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/hassanbaloch7645-code?label=Followers&style=flat&color=00B4D8" alt="Followers" />
 
 </div>
 
-
 ---
+
 
 ### 🚀 About Me
 
